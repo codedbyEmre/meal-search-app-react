@@ -1,3 +1,8 @@
+-If you want to see the live version of this app, click the link below
+
+https://devemre-meal-search-app-react.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
