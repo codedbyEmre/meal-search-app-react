@@ -1,7 +1,5 @@
--If you want to see the live version of this app, click the link below
 
-https://devemre-meal-search-app-react.netlify.app/
-
+If you want to see the live version of this project, please <a href="https://meal-search-app-react-codedbyemre.netlify.app/" target="_blanck">click here</a>
 
 # Getting Started with Create React App
 
