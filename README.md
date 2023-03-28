@@ -1,6 +1,3 @@
-
-If you want to see the live version of this project, please <a href="https://meal-search-app-react-codedbyemre.netlify.app/" target="_blanck">click here</a>
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
